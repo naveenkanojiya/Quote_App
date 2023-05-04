@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quotify</string>
+    <string name="genius_is_one_percent_inspiration_and_ninety_nine_percent_perspiration">Genius is one percent inspiration and ninety-nine percent perspiration.</string>
+    <string name="bruce_wayne">Bruce Wayne</string>
+    <string name="quotify">QUOTIFY</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="next">NEXT</string>
+    <string name="todo">TODO</string>
+</resources>
